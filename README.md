@@ -63,4 +63,4 @@ node bundler.js
 
 ## Contact
 
-Telegram: [@its0xopsdev](https://t.me/Rust0x_726)
+Telegram: [@Manokil](https://t.me/Rust0x_726)
