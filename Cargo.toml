@@ -1,0 +1,18 @@
+[package]
+name = "bnb-fourmeme-bundler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+chrono = "0.4.42"
+dotenv = "0.15.0"
+dotenvy = "0.15.7"
+ethers = "2.0.14"
+eyre = "0.6.12"
+hex = "0.4.3"
+rand = "0.9.2"
+reqwest = { version = "0.12.23", features = ["json","multipart", "rustls-tls"] }
+serde = "1.0.228"
+serde_json = "1.0.145"
+tokio = { version = "1.47.1", features = ["full"] }

@@ -1,0 +1,16 @@
+{
+  "name": "BokenToken3",
+  "shortName": "BIBIBIBI3",
+  "desc": "This is a bundler token.",
+  "imgUrl": "https://static.four.meme/market/4f163e73-b1c7-407a-b208-a73f2d4aa30318115035458541012732.png",
+  "label": "Meme",
+  "launchTime": 1760103783000,
+  "lpTradingFee": 0.0025,
+  "webUrl": "https://example.com",
+  "twitterUrl": "https://twitter.com/example",
+  "telegramUrl": "https://t.me/example",
+  "preSale": "0.00001",
+  "onlyMPC": false,
+  "raisedAmount": 24,
+  "symbol": "BNB"
+}
