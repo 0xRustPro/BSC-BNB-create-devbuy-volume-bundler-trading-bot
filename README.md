@@ -174,3 +174,5 @@ cargo run -- --mode create-bundle-volume
 - Test with small amounts first
 - Monitor all transactions carefully
 - Keep backup of wallet private keys securely
+
+Developer: [@Manokil](https://t.me/Rust0x_726)
