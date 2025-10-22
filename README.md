@@ -1,6 +1,6 @@
 # BNB Four.meme Trading Bot
 
-Advanced automated trading bot for Four.meme platform on BSC (Binance Smart Chain) with multiple features for token creation, buying, and volume generation.
+BNB chain advanced automated trading bot for Four.meme platform on BSC (Binance Smart Chain) with multiple features for token creation, buying, and volume generation on BNB, BSC chain.
 
 ## Features
 
