@@ -1,5 +1,6 @@
 # BNB Four.meme Trading Bot
 
+This is an undetected volume bot and bundler bot powered by Bubble Maps, available on both Solana and EVM.
 BNB chain advanced automated trading bot for Four.meme platform on BSC (Binance Smart Chain) with multiple features for token creation, buying, and volume generation on BNB, BSC chain.
 
 ## Features
